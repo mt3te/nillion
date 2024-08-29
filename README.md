@@ -3,6 +3,8 @@
 - You can use either VPS or Ubuntu on Windows
 - Ubuntu troubleshooting related video is [here](https://x.com/ZunXBT/status/1827779868630876651)
 - Make sure that you have a nillion address, if u have not, you can install [Keplr](https://chromewebstore.google.com/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap) and create a nillion address
+- Now visit this [website](https://chains.keplr.app) and search `nillion` and add nillion testnet to your keplr wallet
+- Open your Keplr wallet, search for `nillion` , u will get your nillion address
 - Now request nillion faucet from [here](https://faucet.testnet.nillion.com/)
 - Use this command to install docker on your system
 ```bash
